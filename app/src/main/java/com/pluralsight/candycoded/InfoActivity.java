@@ -53,6 +53,6 @@ public class InfoActivity extends AppCompatActivity {
         phoneIntent.setData(uriPhone);
 
         startActivity(phoneIntent);
-        
+
     }
 }
